@@ -3,7 +3,7 @@
 ## Mihriban Özdemir
 mihriban.ozdemirr@outlook.com
 
-Bu projede, sağlık veri seti üzerinde **Exploratory Data Analysis (EDA)** ve veri ön işleme işlemleri gerçekleştirilmiştir. Veri seti; demografik bilgiler (cinsiyet, yaş, kilo, boy, vb.), yan etki başlangıç tarihleri ve kronik hastalık bilgilerini içermektedir. Bu proje kapsamında hem **kategorik** hem de **sayısal** veriler üzerinde işlemler uygulanmış ve gerekli **grafiksel görselleştirmeler** ile desteklenmiştir.
+Bu projede, ide_effect_data veri seti üzerinde **Exploratory Data Analysis (EDA)** ve veri ön işleme işlemleri gerçekleştirilmiştir. Veri seti; demografik bilgiler (cinsiyet, yaş, kilo, boy, vb.), yan etki başlangıç tarihleri ve kronik hastalık bilgilerini içermektedir. Bu proje kapsamında hem **kategorik** hem de **sayısal** veriler üzerinde işlemler uygulanmış ve gerekli **grafiksel görselleştirmeler** ile desteklenmiştir.
 
 ---
 
