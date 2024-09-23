@@ -50,4 +50,6 @@ Veriler üzerinde çeşitli pivot tablolar oluşturularak, ilaç kullanımı, ya
 
 ## Sonuçlar
 Veri analizi ve ön işleme süreçleri başarıyla tamamlanmış olup, elde edilen bulgular ve görselleştirmeler raporlanmıştır. Aykırı değerlerin kontrolü, eksik verilerin doldurulması, kategorik değişkenlerin encoding işlemleri ve korelasyon analizleri yapılmıştır.
+## Streamlit Sayfası
+https://pusula-case.streamlit.app/
 
